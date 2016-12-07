@@ -11,7 +11,7 @@ The Assets folder contains the work assests necessary for project like the WBS -
 
 The Model and The assets are not final because of the changing requirements.
 
-
+The log file is weekly work log file to keep track of the work done.
 
 
 The main Image which describes the work is 
